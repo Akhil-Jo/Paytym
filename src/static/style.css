@@ -1,0 +1,304 @@
+.bgImage {
+  max-height: 750px;
+  min-height: 560px;
+    background-image: linear-gradient(to right, rgba(31, 27, 253, 0.5), rgba(155, 122, 242, 0.5)), url('../Image/banner.png');
+    background-repeat: no-repeat;
+    background-size: auto, cover;
+    background-position: center center;
+  }
+  
+  .collapse {
+    justify-content: space-evenly;
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+  .navbar-nav a.nav-link {
+    color: white;
+  }
+  
+  .downloadBtn {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  
+  
+  .sectionBg {
+    background-color: #faf8ff;
+  }
+  
+  .sectHead {
+    color: #26208C;
+  }
+  
+  .sectionBg p {
+    color: #595959;
+  }
+  
+  .firstSection,
+  p {
+    font-size: 16px;
+  }
+  
+  .firstSection,
+  h2 {
+    color: #26208C;
+  }
+  
+  .circle {
+    width: 70px; 
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .subSent {
+    margin-left: 15px;
+  }
+  
+  .card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none !important;
+  }
+  
+  .firstCard {
+    border-radius: 50%;
+    background: #615DD4;
+    width: 49px;
+    height: 48px;
+    position: relative;
+    left: 40%;
+  }
+  
+  .firstCard .bi {
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+  }
+  
+  .firstCard .far {
+    position: absolute;
+    top: 25%;
+    font-size: 24px;
+    left: 27%;
+  }
+  
+  .cardText {
+    font-size: 13px;
+  }
+  
+  .cardStyle {
+  height: 13rem !important;
+  }
+  .cardStyle:hover {
+    background: linear-gradient(to right, #9292EF, #B6A0F5);
+    color: white;
+  
+  }
+  
+  .cardStyle:hover .firstCard {
+    background: white;
+  }
+  
+  .cardStyle:hover svg path {
+    fill: #6B6BE9;
+  }
+  .section{
+    background-image: linear-gradient(to right, rgba(31, 27, 253, 0.5), rgba(155, 122, 242, 0.5)), url('../Image/showcase_bg.png');;
+    background-repeat: no-repeat;
+    background-size: auto, cover;
+    background-position: center center;
+  
+  }
+  .blurColor{
+    color: #838383;
+  }
+  .colorTitle{
+    color: #26208C;
+  }
+
+  .firstLine{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    color: #000000;
+    text-align: center;
+    margin-top: 15px;
+  }
+  .secondLine{
+    color: #5C5C5C; 
+    font-size: 15px; 
+    text-align: center;
+  
+  }
+  .sectionContainer{
+    background-color: #FAF8FF;
+  }
+  .cardBodystyle{
+    border-top:12px solid #825DF7 !important;
+  }
+  .cardModify{
+    width: 18rem;
+  }
+  .cardBodystyle h5{
+    color: #825DF7;
+    font-size: 25px;
+  }
+  .svgIcon{
+   position: absolute; 
+   top: 50%; 
+   left: 50%; 
+   transform: translate(-50%, -50%);
+  }
+  .dashed {
+    border: 1px dashed #825DF7; 
+    }
+  .buttonModify{
+    color: #efefef;
+    border: none;
+    text-align: center;
+    padding: 10px 20px; 
+    border-radius: 30px;
+  
+  }
+  .btnStandard{
+    background-color: #825DF7;
+  }
+  .btnPersonal{
+    background-color: #ED6950;
+  }
+  .btnBusiness{
+    background-color: #4CB5FF;
+  }
+  .cardBodyposter{
+    border-top:12px solid #ED6950 !important;
+  }
+  .cardBodyposter h5{
+    color: #ED6950;
+    font-size: 25px;
+  }
+  .dashedRed{
+    border: 1px dashed #ED6950;
+  }
+  .cardBodymodal{
+    border-top:12px solid #4CB5FF !important;
+  }
+  .cardBodymodal h5{
+    color: #4CB5FF;
+    font-size: 25px;
+  }
+  .dashedModal{
+    border: 1px dashed #4CB5FF;
+  }
+  .finalbgImage {
+    background-image: linear-gradient(to right, rgba(31, 27, 253, 0.5), rgba(155, 122, 242, 0.5));
+  }
+  .msgBtn{
+    padding: 8px 20px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background: transparent;
+    border-color: white;
+    color: white;
+  }
+  .inputBox{
+    padding: 5px;
+    background: transparent;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+  }
+
+  textarea{
+    padding: 15px;
+    width: 95%;
+    background: transparent;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+  }
+  
+  .iconModify {
+    background-image: linear-gradient(#615DD4, #9575DF);
+    border-radius: 50%;
+    color: white;
+    width: 30px;
+    height: 30px;
+    display: flex !important;
+    justify-content: center!important;
+    align-items: center!important;
+    margin-right: 10px;
+    font-size: 15px;
+  }
+  #imageContainer {
+    text-align: center;
+      padding: 20px;
+  }
+  .image {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  .borderImage {
+    border: 2px solid #615DD4;
+    border-radius: 50%;
+  }
+  
+  .testimonial{
+    position: relative;
+  }
+  
+  
+  .testimonial p {
+    font-size: 1rem;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: translateX(0%);
+    animation-timing-function: linear;
+  }
+  100% {
+      transform: translateX(-100%);
+      animation-timing-function: linear;
+  }
+  }
+  .iconImg {
+   
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+  }
+
+  
+  .imageInfo {
+    background-color: #f5f5f5;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .firstLine, .secondLine {
+    margin: 50px 0;
+  }
+  #testimonial{
+    text-align: center;
+  }
+  .input-group{
+    width: 48% !important;
+  }
+  .touchMain{
+    display: flex;
+    justify-content: space-between;
+  }
+  .inputBox::placeholder{
+    color: #fff;
+  }
