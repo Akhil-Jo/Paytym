@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/paytym/static/css/main.568e14c8.css",
-    "main.js": "/paytym/static/js/main.23a268fb.js",
-    "static/js/787.1ba3eb4d.chunk.js": "/paytym/static/js/787.1ba3eb4d.chunk.js",
+    "main.js": "/paytym/static/js/main.57ae2c5d.js",
+    "static/js/787.38f16daf.chunk.js": "/paytym/static/js/787.38f16daf.chunk.js",
     "static/media/banner.png": "/paytym/static/media/banner.e9d2b4eab0bceb204abb.png",
     "static/media/showcase_bg.png": "/paytym/static/media/showcase_bg.259494ccb21a75f778a5.png",
     "static/media/team_img.png": "/paytym/static/media/team_img.c95ffc37933838d6a99f.png",
@@ -24,11 +24,11 @@
     "static/media/testimonial_three.png": "/paytym/static/media/testimonial_three.cc183a1ee1eba9375453.png",
     "index.html": "/paytym/index.html",
     "main.568e14c8.css.map": "/paytym/static/css/main.568e14c8.css.map",
-    "main.23a268fb.js.map": "/paytym/static/js/main.23a268fb.js.map",
-    "787.1ba3eb4d.chunk.js.map": "/paytym/static/js/787.1ba3eb4d.chunk.js.map"
+    "main.57ae2c5d.js.map": "/paytym/static/js/main.57ae2c5d.js.map",
+    "787.38f16daf.chunk.js.map": "/paytym/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.568e14c8.css",
-    "static/js/main.23a268fb.js"
+    "static/js/main.57ae2c5d.js"
   ]
 }
