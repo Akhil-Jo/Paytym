@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/paytym/static/css/main.568e14c8.css",
+    "main.js": "/paytym/static/js/main.23a268fb.js",
+    "static/js/787.1ba3eb4d.chunk.js": "/paytym/static/js/787.1ba3eb4d.chunk.js",
+    "static/media/banner.png": "/paytym/static/media/banner.e9d2b4eab0bceb204abb.png",
+    "static/media/showcase_bg.png": "/paytym/static/media/showcase_bg.259494ccb21a75f778a5.png",
+    "static/media/team_img.png": "/paytym/static/media/team_img.c95ffc37933838d6a99f.png",
+    "static/media/about_img.png": "/paytym/static/media/about_img.495615026ef77bf209fd.png",
+    "static/media/banner_img.png": "/paytym/static/media/banner_img.7e630b4a3bc3d283319c.png",
+    "static/media/showcase_CalendarMeeting.png": "/paytym/static/media/showcase_CalendarMeeting.1daa0dfc4840e168c348.png",
+    "static/media/showcase_Dashboard.png": "/paytym/static/media/showcase_Dashboard.77b0388bbd8e04a9513f.png",
+    "static/media/showcase_CalendarSchedule.png": "/paytym/static/media/showcase_CalendarSchedule.91e965f4e72b29b37248.png",
+    "static/media/showcase_Leaves.png": "/paytym/static/media/showcase_Leaves.c1a5bf492a25b284bf09.png",
+    "static/media/showcase_NewLeave.png": "/paytym/static/media/showcase_NewLeave.8b54f9f7b8b049609142.png",
+    "static/media/work_paymentMethod.png": "/paytym/static/media/work_paymentMethod.8394c366c2e8f8a174c0.png",
+    "static/media/work_choosePlan.png": "/paytym/static/media/work_choosePlan.b91025c6803a8d2ead04.png",
+    "static/media/work_letsWork.png": "/paytym/static/media/work_letsWork.53bdf6706239706a783d.png",
+    "static/media/testimonial_one.png": "/paytym/static/media/testimonial_one.9612732d2a9dc1947c2e.png",
+    "static/media/testimonial_two.png": "/paytym/static/media/testimonial_two.91a475d6124a62d6d970.png",
+    "static/media/showcase_Login.png": "/paytym/static/media/showcase_Login.cdcbc69691a04cb15586.png",
+    "static/media/testimonial_five.png": "/paytym/static/media/testimonial_five.7ebd86ec21b0d07c36c2.png",
+    "static/media/testimonial_four.png": "/paytym/static/media/testimonial_four.76530494fac9e5c6c249.png",
+    "static/media/testimonial_three.png": "/paytym/static/media/testimonial_three.cc183a1ee1eba9375453.png",
+    "index.html": "/paytym/index.html",
+    "main.568e14c8.css.map": "/paytym/static/css/main.568e14c8.css.map",
+    "main.23a268fb.js.map": "/paytym/static/js/main.23a268fb.js.map",
+    "787.1ba3eb4d.chunk.js.map": "/paytym/static/js/787.1ba3eb4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568e14c8.css",
+    "static/js/main.23a268fb.js"
+  ]
+}
